@@ -63,6 +63,7 @@ class hotel {
 			float fare;
 	public:
 			void main_menu();		//to display the main menu
+	
 			void add();				//to book a room
 			void display(); 		//to display the customer record
 			void rooms();			//to display allotted rooms
